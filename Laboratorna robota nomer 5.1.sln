@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laboratorna robota nomer 5.1", "Laboratorna robota nomer 5.1\Laboratorna robota nomer 5.1.vcxproj", "{764B0556-2DF0-4879-9347-D7EB576E80E8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTestForLab5.1", "UnitTestForLab5.1\UnitTestForLab5.1.vcxproj", "{75458CD5-E268-4AAB-997E-26FA95966303}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{764B0556-2DF0-4879-9347-D7EB576E80E8}.Release|x64.Build.0 = Release|x64
 		{764B0556-2DF0-4879-9347-D7EB576E80E8}.Release|x86.ActiveCfg = Release|Win32
 		{764B0556-2DF0-4879-9347-D7EB576E80E8}.Release|x86.Build.0 = Release|Win32
+		{75458CD5-E268-4AAB-997E-26FA95966303}.Debug|x64.ActiveCfg = Debug|x64
+		{75458CD5-E268-4AAB-997E-26FA95966303}.Debug|x64.Build.0 = Debug|x64
+		{75458CD5-E268-4AAB-997E-26FA95966303}.Debug|x86.ActiveCfg = Debug|Win32
+		{75458CD5-E268-4AAB-997E-26FA95966303}.Debug|x86.Build.0 = Debug|Win32
+		{75458CD5-E268-4AAB-997E-26FA95966303}.Release|x64.ActiveCfg = Release|x64
+		{75458CD5-E268-4AAB-997E-26FA95966303}.Release|x64.Build.0 = Release|x64
+		{75458CD5-E268-4AAB-997E-26FA95966303}.Release|x86.ActiveCfg = Release|Win32
+		{75458CD5-E268-4AAB-997E-26FA95966303}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
